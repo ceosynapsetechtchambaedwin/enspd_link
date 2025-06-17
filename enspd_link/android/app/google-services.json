@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436497557471",
+    "project_id": "enspd-link-app",
+    "storage_bucket": "enspd-link-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436497557471:android:c45452fa586560a566066a",
+        "android_client_info": {
+          "package_name": "com.example.enspd_link"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1VQ88SCqLgb8fZ-kRWDgw_5_MSo9ldlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
